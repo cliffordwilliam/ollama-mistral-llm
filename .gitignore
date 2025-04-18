@@ -1,0 +1,21 @@
+# Ignore virtual environment
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# VSCode/IDE settings (optional, helpful if you use it)
+.vscode/
+
+# Environment variables and credentials (if you use .env)
+.env
+
+# Log files and output
+*.log
+
+# macOS system files (if ever used)
+.DS_Store
