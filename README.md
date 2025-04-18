@@ -1,8 +1,3 @@
-# Broken
-
-Idk why the rendering does not work but you can copy paste this into another md viewer online it works fine
-
-
 # AI study
 
 ## Deps
@@ -276,6 +271,4 @@ Final Answer: Pikachu has a height of 4 decimetres and its stats are {'hp': 35, 
 > Finished chain.
 {'input': 'Tell me about Pikachu including its stats.', 'output': "Pikachu has a height of 4 decimetres and its stats are {'hp': 35, 'attack': 55, 'defense': 40, 'special-attack': 50, 'special-defense': 50, 'speed': 90}."}
 ```
-#   o l l a m a - m i s t r a l - l l m 
- 
- 
+#
